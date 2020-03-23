@@ -1,0 +1,73 @@
+.email-background {
+    background: #eee;
+    padding: 10px;
+}
+
+.email-container {
+  max-width: 500px;
+  background: white;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.pre-header {
+  max-width: 500px;
+  background: white;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 5px;
+  color: white;
+  font-size: 5px;
+}
+
+img {
+    max-width: 100%;
+    width: 100%;
+}
+
+p {
+    margin: 20px;
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+    color: #666;
+    line-height: 1.5;
+}
+
+.cta {
+    text-align: center;
+    margin: 20px;
+}
+
+.cta a {
+    text-decoration: none;
+    display: inline-block;
+    background: #9000ff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+.footer-junk {
+  max-width: 500px;
+  overflow: hidden;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 12px;
+  text-align: center;
+}
+
+.footer-junk a {
+    text-decoration: none;
+}
+
+
+/* http://psv81-1.daxab.com/videos/-154472339/456241775/720.mp4?extra=i60t5XVnl5rR8vdsLhV1-g */
+/* https://www1277.o0-3.com/token=-E56Q7Nm0CZboDRmYZxIKg/1584243131/2604:2000::/4/0/c2/ee9f7d8e9519d0b696411c03ab2e6c20-1080p.mp4 */
